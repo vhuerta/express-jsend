@@ -1,0 +1,25 @@
+{
+  "name": "express-jsend",
+  "version": "0.0.1",
+  "description": "Express middleware to add JSend standard responses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vhuerta/express-jsend.git"
+  },
+  "keywords": [
+    "jsend",
+    "express",
+    "json",
+    "middleware"
+  ],
+  "author": "Victor Huerta <vhuertahnz@gmail.com>",
+  "license": "(MIT OR Apache-2.0)",
+  "bugs": {
+    "url": "https://github.com/vhuerta/express-jsend/issues"
+  },
+  "homepage": "https://github.com/vhuerta/express-jsend#readme"
+}
