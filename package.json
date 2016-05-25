@@ -1,5 +1,5 @@
 {
-  "name": "express-jsend",
+  "name": "express-jsend-middleware",
   "version": "0.0.1",
   "description": "Middleware to send json responses using the JSend standart",
   "main": "index.js",
