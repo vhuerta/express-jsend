@@ -1,7 +1,7 @@
 {
   "name": "express-jsend",
   "version": "0.0.1",
-  "description": "Express middleware to add JSend standard responses",
+  "description": "Middleware to send json responses using the JSend standart",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
